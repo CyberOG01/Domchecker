@@ -18,7 +18,7 @@ Elpenmle
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/domain-checker.git
+   git clone https://github.com/CyberOG01/domain-checker.git
    cd domain-checker
    
 🖥 **Usage**
