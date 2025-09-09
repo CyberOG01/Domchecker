@@ -20,12 +20,14 @@ Elpenmle
    ```bash
    git clone https://github.com/CyberOG01/domain-checker.git
    cd Domchecker
-   python domaincheck.py 
+   
+run 
+   python domaincheck.py
    
 🖥 **Usage**
 Single domain
 python3 domaincheck.py
-
+   
 Comming soon...
 Multiple domains
 Create a file called domains.txt with a list of domains:
