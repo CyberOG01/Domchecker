@@ -24,7 +24,6 @@ Elpenmle
 2. run:
    ````bash
    python domaincheck.py
-      
    
 🖥 **Usage**
 Single domain
