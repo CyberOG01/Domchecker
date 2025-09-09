@@ -21,7 +21,8 @@ Elpenmle
    git clone https://github.com/CyberOG01/domain-checker.git
    cd Domchecker
    
-2. run
+2. run:
+   ````bash
    python domaincheck.py
       
    
