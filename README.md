@@ -19,6 +19,8 @@ Elpenmle
 1. Clone the repo:
    ```bash
    git clone https://github.com/CyberOG01/domain-checker.git
+   cd Domchecker
+   python domaincheck.py 
    
 🖥 **Usage**
 Single domain
