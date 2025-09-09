@@ -21,8 +21,9 @@ Elpenmle
    git clone https://github.com/CyberOG01/domain-checker.git
    cd Domchecker
    
-run 
+2. run
    python domaincheck.py
+      
    
 🖥 **Usage**
 Single domain
